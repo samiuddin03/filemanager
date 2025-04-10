@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">File Manager</string>
+    <string name="action_refresh">Refresh</string>
+    <string name="action_new_folder">New Folder</string>
+    <string name="action_new_file">New File</string>
+    <string name="action_paste">Paste</string>
+    <string name="action_rename">Rename</string>
+    <string name="action_delete">Delete</string>
+    <string name="action_copy">Copy</string>
+    <string name="action_move">Move</string>
+    <string name="dialog_create_folder">Create New Folder</string>
+    <string name="dialog_create_file">Create New File</string>
+    <string name="dialog_rename">Rename</string>
+    <string name="dialog_delete">Delete</string>
+    <string name="dialog_confirm_delete">Are you sure you want to delete this item?</string>
+    <string name="dialog_yes">Yes</string>
+    <string name="dialog_no">No</string>
+    <string name="dialog_cancel">Cancel</string>
+    <string name="dialog_create">Create</string>
+    <string name="dialog_file_exists">File already exists</string>
+    <string name="dialog_replace">Replace</string>
+    <string name="toast_copied">Copied successfully</string>
+    <string name="toast_moved">Moved successfully</string>
+    <string name="toast_deleted">Deleted successfully</string>
+    <string name="toast_renamed">Renamed successfully</string>
+    <string name="toast_created">Created successfully</string>
+    <string name="toast_error">Error: %1$s</string>
+    <string name="toast_no_app">No app found to open this file</string>
+</resources>
